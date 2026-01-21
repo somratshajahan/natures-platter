@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-text-primary: rgba(23, 152, 0, 1);
+  --background-image-main-grad: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(239, 235, 227, 1) 100%);
+
+  --background-image-second-grad: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(249, 223, 138, 1) 100%);
+}
